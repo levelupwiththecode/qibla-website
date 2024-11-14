@@ -2,7 +2,7 @@
 
 Bonjour, Salam Aleycoum,
 
-J'ai besoin de votre aide pour améliorer QiblaFrance avant son lancement officiel sur l'App Store !
+J'ai besoin de votre aide pour améliorer QiblaFrance avant son lancement officiel sur l'App Store dans d'autres pays !
 
 QiblaFrance est une application conçue pour vous aider à trouver la direction de la Qibla pour la prière. Actuellement, la méthode utilisée est basée sur une localisation approximative (Paris) avec un angle de référence de 118 degrés pour la direction de la Qibla.
 
