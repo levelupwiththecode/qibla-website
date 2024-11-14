@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - QiblaFrance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #000000;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333333;
+        }
+        footer {
+            background-color: #000000;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Politique de Confidentialité</h1>
+</header>
+
+<section>
+    <h2>1. Informations collectées</h2>
+    <p>QiblaFrance respecte la confidentialité de ses utilisateurs et s'engage à protéger leurs informations personnelles. Cette politique de confidentialité explique quelles informations nous collectons, comment elles sont utilisées et quelles mesures de sécurité nous mettons en place.</p>
+
+    <h3>Localisation</h3>
+    <p>L'application utilise votre <strong>position géographique</strong> afin de déterminer la direction de la Qibla pour la prière. La localisation est utilisée uniquement pendant que vous utilisez l'application et ne sera pas stockée de manière permanente sur nos serveurs. L'accès à la localisation peut être désactivé à tout moment via les paramètres de votre appareil.</p>
+
+    <h3>Informations non personnelles</h3>
+    <p>Nous ne collectons aucune information personnelle identifiable, sauf si vous choisissez de nous fournir des informations via des retours d'expérience ou via un support client.</p>
+</section>
+
+<section>
+    <h2>2. Utilisation des données</h2>
+    <p>Les données de localisation sont utilisées uniquement pour les fonctionnalités suivantes :</p>
+    <ul>
+        <li><strong>Trouver la direction de la Qibla</strong> : Nous utilisons la localisation pour déterminer votre position et calculer l'orientation correcte de la Qibla.</li>
+        <li><strong>Amélioration de l'expérience utilisateur</strong> : Nous pouvons utiliser des informations anonymes pour améliorer les performances de l'application.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>3. Partage des données</h2>
+    <p>QiblaFrance ne vend, ne loue ni ne partage vos informations personnelles ou vos données de localisation avec des tiers, sauf si cela est requis par la loi ou pour protéger nos droits légaux.</p>
+</section>
+
+<section>
+    <h2>4. Sécurité des données</h2>
+    <p>Nous mettons en œuvre des mesures de sécurité raisonnables pour protéger les informations que nous collectons. Toutefois, aucune méthode de transmission sur Internet ou de stockage électronique n'est totalement sûre. Par conséquent, bien que nous nous efforçons de protéger vos informations, nous ne pouvons garantir une sécurité absolue.</p>
+</section>
+
+<section>
+    <h2>5. Consentement</h2>
+    <p>En utilisant QiblaFrance, vous consentez à la collecte et à l'utilisation de vos informations de localisation conformément à cette politique de confidentialité.</p>
+</section>
+
+<section>
+    <h2>6. Modifications de la politique de confidentialité</h2>
+    <p>Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. Toute modification sera publiée sur cette page et, si nécessaire, vous serez informé via l'application.</p>
+</section>
+
+<section>
+    <h2>7. Nous contacter</h2>
+    <p>Si vous avez des questions concernant cette politique de confidentialité ou souhaitez obtenir plus d'informations, n'hésitez pas à nous contacter :</p>
+    <p>Email : <a href="mailto:votre-email@example.com">votre-email@example.com</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 QiblaFrance. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
